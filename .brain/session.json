@@ -1,0 +1,66 @@
+{
+  "updated_at": "2026-06-05T08:51:00Z",
+  "working_on": {
+    "feature": "Experiences Marquee Dynamic Logos",
+    "task": "Connect marquee logos to Experiences dictionary",
+    "status": "completed",
+    "files": ["src/components/sections/Experiences.tsx"],
+    "blockers": [],
+    "notes": "Marquee now dynamically pulls logos and names from dict.companies."
+  },
+  "pending_tasks": [],
+  "recent_changes": [
+    {
+      "timestamp": "2026-06-05T08:51:00Z",
+      "type": "bugfix",
+      "description": "Connected the marquee section at the bottom of Experiences to the companies database in CMS, removing hardcoded placeholder LOGO items.",
+      "files": ["src/components/sections/Experiences.tsx"]
+    },
+    {
+      "timestamp": "2026-06-03T23:15:00Z",
+      "type": "feature",
+      "description": "Completed Experiences Master-Detail layout with website links.",
+      "files": ["src/components/sections/Experiences.tsx"]
+    },
+    {
+      "timestamp": "2026-06-03T23:35:00Z",
+      "type": "feature",
+      "description": "Completed Projects Grid and Modal Popup.",
+      "files": ["src/components/sections/Projects.tsx"]
+    },
+    {
+      "timestamp": "2026-06-03T23:45:00Z",
+      "type": "feature",
+      "description": "Completed Skills Accordion and Detail pane.",
+      "files": ["src/components/sections/Skills.tsx"]
+    },
+    {
+      "timestamp": "2026-06-03T23:50:00Z",
+      "type": "feature",
+      "description": "Completed Testimonials (portrait images) and Footer.",
+      "files": ["src/components/sections/Testimonials.tsx", "src/components/layout/Footer.tsx"]
+    }
+  ],
+  "errors_encountered": [
+    {
+      "error": "TypeScript error with framer-motion ease type",
+      "solution": "Added 'as const' to the ease string.",
+      "resolved": true
+    },
+    {
+      "error": "Lucide React missing Github/Linkedin icons",
+      "solution": "Replaced with raw SVG code.",
+      "resolved": true
+    }
+  ],
+  "decisions_made": [
+    {
+      "decision": "Use raw SVGs for missing Lucide icons",
+      "reason": "Faster, no external dependency required, visually consistent."
+    },
+    {
+      "decision": "Redesign Testimonials for portrait images",
+      "reason": "Client requested to use vertical photos of referrers."
+    }
+  ]
+}

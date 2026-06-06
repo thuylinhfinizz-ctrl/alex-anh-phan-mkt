@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "schema_version": "1.1.0",
+    "awf_version": "3.3.0"
+  },
+  "project": {
+    "name": "portfolio-alex-anh-phan",
+    "description": "Website portfolio cho Alex Anh Phan sử dụng Next.js 15, React 19, TypeScript, Tailwind CSS v4, Framer Motion, Shadcn UI, Lucide React.",
+    "created_at": "2026-06-03T22:27:18+07:00",
+    "status": "Deployed / Production Ready"
+  },
+  "tech_stack": {
+    "frontend": {
+      "framework": "Next.js 15 (App Router)",
+      "ui": "React 19, Tailwind CSS v4",
+      "animation": "Framer Motion",
+      "icons": "Lucide React, Custom SVGs"
+    },
+    "language": "TypeScript"
+  },
+  "database_schema": {},
+  "api_endpoints": [],
+  "business_rules": [
+    "Hỗ trợ song ngữ Tiếng Anh / Tiếng Việt qua i18n JSON files",
+    "Thiết kế Dark/Light mode theo từng Section tạo điểm nhấn tương phản"
+  ],
+  "features": [
+    "Navbar: Logo, Desktop/Mobile Menu, Language Toggle",
+    "Hero Section: Hiệu ứng ánh sáng Neon, Call-to-Action",
+    "Experiences: Master-Detail Layout với Timeline dọc, hỗ trợ Website link",
+    "Projects: Lưới grid có bộ lọc (Filter) kết hợp Modal Popup chi tiết dự án",
+    "Skills: Bố cục 2 cột, danh sách Accordion sổ dọc với Framer Motion",
+    "Testimonials: Lưới đánh giá tối màu hỗ trợ hình ảnh dọc (Portrait Ratio 4:5)",
+    "Footer: Typography siêu lớn, SVG Icons mạng xã hội, Metadata SEO toàn cục"
+  ],
+  "knowledge_items": {
+    "patterns": [
+      "Sử dụng Framer Motion `layoutId` và `AnimatePresence` để làm Modal/Accordion mượt mà",
+      "Sử dụng thẻ `<a>` bên trong thẻ `<button>` bị cấm trong React, phải xử lý link khéo léo (e.stopPropagation)"
+    ],
+    "gotchas": [
+      "lucide-react v1.17+ không còn export Github và Linkedin. Khắc phục: Dùng trực tiếp mã SVG."
+    ]
+  }
+}

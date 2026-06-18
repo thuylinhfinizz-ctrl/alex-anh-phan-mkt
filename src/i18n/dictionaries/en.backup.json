@@ -1,11 +1,11 @@
 {
   "navbar": {
-    "home": "Trang chủ",
-    "experiences": "Kinh nghiệm",
-    "projects": "Dự án",
-    "skills": "Năng lực",
-    "testimonials": "Đánh giá",
-    "contact": "Liên hệ ngay"
+    "home": "Home",
+    "experiences": "Experiences",
+    "projects": "Projects",
+    "skills": "Skills",
+    "testimonials": "Testimonials",
+    "contact": "Contact Now"
   },
   "hero": {
     "greeting": "Xin chào, tôi là",
@@ -17,7 +17,7 @@
     "right_title_hl": "Marketing, Growth và",
     "right_title_sub": "AI Automation",
     "right_desc": "Với hơn 12 năm kinh nghiệm trong lĩnh vực Marketing của nhiều ngành nghề khác nhau như bán lẻ, thương mại điện tử, giáo dục, công nghệ,....Tôi đã đồng hành cùng nhiều thương hiệu trong việc xây dựng chiến lược, triển khai các chiến lược Performance Marketing để tối ưu chuyển đổi và phát triển hệ thống tăng trưởng dựa trên dữ liệu.",
-    "cta_video": "Liên hệ ngay",
+    "cta_video": "Contact Now",
     "scroll_down": "CUỘN ĐỂ KHÁM PHÁ"
   },
   "experiences": {
@@ -548,14 +548,14 @@
   },
   "skills": {
     "tag": "KỸ NĂNG",
-    "title_hl": "My",
-    "title_sub": "Skills",
+    "title_hl": "Kỹ năng",
+    "title_sub": "và Công cụ",
     "desc": "Sự kết hợp giữa tư duy chiến lược, chuyên môn kỹ thuật và tối ưu công cụ.",
     "groups": [
       {
         "id": "s1",
-        "name": "Chiến Lược Digital & Tăng Trưởng",
-        "short_desc": "Chiến lược dựa trên dữ liệu giúp mở rộng kinh doanh.",
+        "name": "Chiến lược Tăng trưởng & Digital Marketing",
+        "short_desc": "Xây dựng hệ thống tăng trưởng dựa trên dữ liệu và tối ưu hiệu quả kinh doanh.",
         "tools": [
           {
             "name": "BigQuery",
@@ -613,8 +613,8 @@
       },
       {
         "id": "s2",
-        "name": "AI & Tự động hóa",
-        "short_desc": "Ứng dụng AI tăng hiệu suất vận hành.",
+        "name": "AI & Tự động hóa Marketing",
+        "short_desc": "Ứng dụng AI và Automation để nâng cao năng suất, tối ưu quy trình và mở rộng quy mô vận hành.",
         "tools": [
           {
             "name": "Antigravity",
@@ -668,8 +668,8 @@
       },
       {
         "id": "s3",
-        "name": "Phát triển Web & Nền tảng",
-        "short_desc": "Xây dựng sản phẩm số nhanh, đáng tin cậy.",
+        "name": "SEO & Organic Growth",
+        "short_desc": "Xây dựng hệ thống thu hút khách hàng bền vững từ tìm kiếm và nội dung.",
         "tools": [
           {
             "name": "Search Console",
@@ -688,12 +688,12 @@
             "logo": "/images/wplogo.png"
           }
         ],
-        "core_desc": "Thiết kế và phát triển các ứng dụng web hiện đại với trọng tâm là hiệu năng và trải nghiệm người dùng.",
+        "core_desc": "Xây dựng hệ thống thu hút khách hàng bền vững từ tìm kiếm và nội dung.",
         "what_i_do": [
-          "Lập trình Frontend",
-          "Triển khai UI/UX",
-          "Kiến trúc nền tảng",
-          "Tối ưu hóa hiệu năng"
+          "SEO",
+          "AEO (Answer Engine Optimization)",
+          "GEO (Generative Engine Optimization)",
+          "Community-Led Growth"
         ],
         "impact": [
           {
@@ -779,7 +779,7 @@
         "content": "Sự pha trộn tuyệt vời giữa kỹ năng công nghệ và tư duy marketing nhạy bén. Alex luôn thấu hiểu sản phẩm và biết chính xác cách mang nó đến đúng tệp khách hàng tiềm năng.",
         "author": "Mike Johnson",
         "role": "Founder, StartupX",
-        "avatar": "/images/huuhoang.png"
+        "avatar": ""
       }
     ]
   },

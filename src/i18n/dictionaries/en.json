@@ -8,66 +8,66 @@
     "contact": "Contact Now"
   },
   "hero": {
-    "greeting": "Xin chào, tôi là",
+    "greeting": "Hi, I am",
     "name1": "Alex Anh",
     "name2": "Phan",
-    "left_desc": "Tôi giúp doanh nghiệp ứng dụng AI, dữ liệu và Digital Marketing\nđể xây dựng hệ thống tăng trưởng có thể đo lường, tối ưu và mở rộng.",
-    "cta_projects": "Xem Dự Án",
-    "right_subtitle": "12+ năm kinh nghiệm",
-    "right_title_hl": "Marketing, Growth và",
+    "left_desc": "I help businesses apply AI, data, and Digital Marketing\nto build measurable, optimized, and scalable growth systems.",
+    "cta_projects": "View Projects",
+    "right_subtitle": "12+ years of experience",
+    "right_title_hl": "Marketing, Growth and",
     "right_title_sub": "AI Automation",
-    "right_desc": "Với hơn 12 năm kinh nghiệm trong lĩnh vực Marketing của nhiều ngành nghề khác nhau như bán lẻ, thương mại điện tử, giáo dục, công nghệ,....Tôi đã đồng hành cùng nhiều thương hiệu trong việc xây dựng chiến lược, triển khai các chiến lược Performance Marketing để tối ưu chuyển đổi và phát triển hệ thống tăng trưởng dựa trên dữ liệu.",
+    "right_desc": "With over 12 years of marketing experience across various industries such as retail, e-commerce, education, and technology. I have partnered with many brands to build strategies and execute Performance Marketing campaigns to optimize conversions and develop data-driven growth systems.",
     "cta_video": "Contact Now",
-    "scroll_down": "CUỘN ĐỂ KHÁM PHÁ"
+    "scroll_down": "SCROLL TO EXPLORE"
   },
   "experiences": {
-    "tag": "KINH NGHIỆM",
-    "title_hl": "Hành trình",
-    "title_sub": "Phát triển sự nghiệp",
-    "left_desc": "Hơn 12 năm xây dựng hệ thống tăng trưởng dựa trên dữ liệu, từ thu hút khách hàng, tối ưu chuyển đổi, Marketing Automation đảm bảo ROI và giá trị vòng đời khách hàng (CLV).\n\nTôi tập trung vào việc biến dữ liệu thành quyết định và quyết định thành tăng trưởng bền vững.",
+    "tag": "EXPERIENCES",
+    "title_hl": "Career",
+    "title_sub": "Development Journey",
+    "left_desc": "Over 12 years of building data-driven growth systems, from customer acquisition, conversion optimization, to Marketing Automation ensuring ROI and Customer Lifetime Value (CLV).\n\nI focus on turning data into decisions and decisions into sustainable growth.",
     "stats": [
       {
         "value": "12+",
-        "label": "Năm Kinh Nghiệm Growth & Marketing"
+        "label": "Years in Growth & Marketing"
       },
       {
-        "value": "Thạc sĩ",
-        "label": "Marketing & Sales"
+        "value": "Master",
+        "label": "of Marketing & Sales"
       },
       {
-        "value": "500+ học viên",
-        "label": "Đào tạo AI, Marketing và Growth"
+        "value": "500+ students",
+        "label": "Trained in AI, Marketing & Growth"
       },
       {
         "value": "AI",
-        "label": "Ứng dụng AI agents trong các công việc hằng ngày"
+        "label": "Applying AI agents in daily tasks"
       }
     ],
-    "download_cv": "Tải Full Hồ Sơ (CV)",
+    "download_cv": "Download Full CV",
     "companies": [
       {
         "id": "rt",
         "name": "Rapid Transformation Holdings",
         "website": "https://rtholdings.edu.vn",
         "role": "Head of Digital Marketing",
-        "period": "2021 - Hiện tại",
+        "period": "2021 - Present",
         "responsibilities": [
-          "Xây dựng và triển khai chiến lược tăng trưởng dựa trên dữ liệu cho toàn bộ vòng đời khách hàng, từ Acquisition đến Retention cho nhiều đơn vị kinh doanh thuộc hệ sinh thái RT Holdings.",
-          "Quản lý Salesforce CRM, Marketing Automation và Customer Lifecycle nhằm tối ưu chuyển đổi, mức độ gắn kết và giá trị vòng đời khách hàng (CLV).",
-          "Thiết lập hệ thống đo lường và dashboard trên GA4, Looker Studio và CRM, cung cấp báo cáo và phân tích hỗ trợ ra quyết định điều hành.",
-          "Quản lý và tối ưu hiệu quả đầu tư Marketing thông qua Performance Marketing, Retargeting, Email Marketing và các chương trình tăng trưởng.",
-          "Dẫn dắt các sáng kiến tối ưu chuyển đổi, A/B Testing và cải thiện trải nghiệm khách hàng thông qua phối hợp liên phòng ban.",
-          "Phối hợp với các phòng ban Tuyển sinh, Học vụ, Vận hành và Công nghệ trong việc triển khai các sáng kiến tăng trưởng, cải thiện trải nghiệm khách hàng và gia tăng tỷ lệ chuyển đổi.",
-          "Ứng dụng AI và Automation để nâng cao hiệu suất vận hành và khả năng mở rộng của hệ thống Marketing."
+          "Built and implemented data-driven growth strategies for the entire customer lifecycle, from Acquisition to Retention across multiple business units within the RT Holdings ecosystem.",
+          "Managed Salesforce CRM, Marketing Automation, and Customer Lifecycle to optimize conversions, engagement, and Customer Lifetime Value (CLV).",
+          "Established tracking systems and dashboards on GA4, Looker Studio, and CRM, providing reports and analysis to support executive decisions.",
+          "Managed and optimized Marketing ROI through Performance Marketing, Retargeting, Email Marketing, and growth initiatives.",
+          "Led conversion optimization initiatives, A/B Testing, and customer experience enhancements through cross-departmental collaboration.",
+          "Collaborated with Admissions, Academic, Operations, and Tech departments to execute growth initiatives, improve customer experience, and increase conversion rates.",
+          "Applied AI and Automation to enhance operational efficiency and the scalability of the Marketing system."
         ],
         "achievements": [
           {
             "value": "+250%",
-            "label": "Tăng Trưởng Khách hàng tiềm năng nhờ các chiến lược growth sáng tạo"
+            "label": "Lead growth through innovative growth strategies"
           },
           {
             "value": "-35%",
-            "label": "Giảm Chi Phí CAC nhờ tái cấu trúc chiến dịch quảng cáo và tối ưu hiệu suất theo từng nhóm khách hàng mục tiêu."
+            "label": "Reduction in CAC by restructuring ad campaigns and optimizing performance for specific target audience segments."
           }
         ],
         "skills": [
@@ -86,22 +86,22 @@
         "role": "Digital Marketing Team Leader",
         "period": "2020 - 2021",
         "responsibilities": [
-          "Xây dựng và triển khai chiến lược thu hút học viên đa kênh, kết hợp giữa Paid Media, SEO, Content Marketing và Marketing Automation nhằm tối ưu hiệu quả chuyển đổi.",
-          "Quản lý hệ thống Salesforce CRM và Pardot, thiết kế các quy trình Lead Nurturing và Lifecycle Marketing giúp nâng cao chất lượng khách hàng tiềm năng.",
-          "Phân tích dữ liệu Marketing và hành vi người dùng để xác định các điểm nghẽn trong Conversion Funnel, từ đó đề xuất các giải pháp tối ưu hiệu suất.",
-          "Xây dựng hệ thống dashboard theo dõi hiệu quả Marketing trên Looker Studio và CRM, hỗ trợ ra quyết định dựa trên dữ liệu.",
-          "Phối hợp với các phòng ban Product, Admissions và Content để triển khai các chiến dịch tăng trưởng và cải thiện trải nghiệm khách hàng xuyên suốt hành trình chuyển đổi.",
-          "Thực hiện các hoạt động A/B Testing đối với Landing Page, Email Marketing và chiến dịch quảng cáo nhằm nâng cao tỷ lệ chuyển đổi và hiệu quả đầu tư.",
-          "Theo dõi và báo cáo các chỉ số tăng trưởng quan trọng như Lead Volume, Conversion Rate, Cost per Lead (CPL) và Marketing ROI để tối ưu phân bổ ngân sách."
+          "Developed and executed omnichannel student acquisition strategies, combining Paid Media, SEO, Content Marketing, and Marketing Automation to optimize conversion performance.",
+          "Managed Salesforce CRM and Pardot, designed Lead Nurturing and Lifecycle Marketing workflows to improve lead quality.",
+          "Analyzed marketing data and user behavior to identify bottlenecks in the Conversion Funnel, proposing performance optimization solutions.",
+          "Built dashboard systems to track marketing performance on Looker Studio and CRM, supporting data-driven decisions.",
+          "Partnered with Product, Admissions, and Content departments to deploy growth campaigns and enhance customer experience throughout the conversion journey.",
+          "Conducted A/B Testing on Landing Pages, Email Marketing, and advertising campaigns to increase conversion rates and ROI.",
+          "Tracked and reported key growth metrics such as Lead Volume, Conversion Rate, Cost per Lead (CPL), and Marketing ROI to optimize budget allocation."
         ],
         "achievements": [
           {
             "value": "100+ ",
-            "label": "Check-ins/Open Day Đạt Mỗi Sự Kiện"
+            "label": "Check-ins/Open Day Achieved Per Event"
           },
           {
             "value": "+150%",
-            "label": "ghi danh mới"
+            "label": "New enrollments"
           }
         ],
         "skills": [
@@ -120,11 +120,11 @@
         "role": "User Acquisition & App Growth Specialist",
         "period": "2018 - 2020",
         "responsibilities": [
-          "Xây dựng và tối ưu chiến lược User Acquisition cho ứng dụng FPT Play trên Google Ads, Facebook Ads và các kênh quảng cáo hiệu suất.",
-          "Theo dõi và tối ưu các chỉ số CPI, CPA, ROAS, Retention và Subscription Conversion.",
-          "Phân tích hành vi người dùng và hiệu quả nguồn traffic nhằm cải thiện chất lượng người dùng mới.",
-          "Phối hợp với Data Team và Product Team trong việc đánh giá hiệu quả chiến dịch, phân khúc người dùng và tối ưu hiệu suất tăng trưởng.",
-          "Thực hiện A/B Testing đối với Creative, Audience và Landing Flow nhằm gia tăng tỷ lệ chuyển đổi."
+          "Built and optimized User Acquisition strategies for the FPT Play app on Google Ads, Facebook Ads, and performance advertising channels.",
+          "Tracked and optimized metrics including CPI, CPA, ROAS, Retention, and Subscription Conversion.",
+          "Analyzed user behavior and traffic source performance to improve new user quality.",
+          "Collaborated with Data Team and Product Team to evaluate campaign performance, segment users, and optimize growth performance.",
+          "Conducted A/B Testing on Creatives, Audiences, and Landing Flows to increase conversion rates."
         ],
         "achievements": [
           {
@@ -151,13 +151,13 @@
         "role": "Ecommerce & Retail Executive",
         "period": "2016-2018",
         "responsibilities": [
-          "Quản lý và phát triển hoạt động kinh doanh trực tuyến cho các thương hiệu quốc tế như Babolat, GUESS, Nautica và Arena trên website và các sàn thương mại điện tử.",
-          "Xây dựng và triển khai các chiến dịch Performance Marketing nhằm thúc đẩy doanh thu, gia tăng lưu lượng truy cập chất lượng và tối ưu tỷ lệ chuyển đổi mua hàng.",
-          "Vận hành các gian hàng trên Tiki, Leflair và Adayroi, bao gồm quản lý danh mục sản phẩm, chương trình khuyến mãi, tồn kho và hiệu suất bán hàng.",
-          "Phân tích dữ liệu bán hàng và hành vi khách hàng để xác định cơ hội tăng trưởng, tối ưu danh mục sản phẩm và nâng cao hiệu quả đầu tư quảng cáo.",
-          "Theo dõi và tối ưu các chỉ số kinh doanh quan trọng như GMV, ROAS, Conversion Rate, Average Order Value (AOV) và Customer Acquisition Cost (CAC).",
-          "Phối hợp với đội ngũ Sales, Brand và Agency trong việc triển khai các chương trình ra mắt sản phẩm, chiến dịch thương mại và hoạt động thúc đẩy doanh thu đa kênh.",
-          "Xây dựng hệ thống báo cáo hiệu suất E-commerce và Marketing định kỳ, cung cấp insight phục vụ các quyết định tăng trưởng và tối ưu lợi nhuận."
+          "Managed and developed online business operations for international brands such as Babolat, GUESS, Nautica, and Arena on website and e-commerce platforms.",
+          "Developed and implemented Performance Marketing campaigns to drive revenue, increase quality traffic, and optimize purchase conversion rates.",
+          "Operated stores on Tiki, Leflair, and Adayroi, including product catalog management, promotions, inventory, and sales performance.",
+          "Analyzed sales data and customer behavior to identify growth opportunities, optimize product portfolios, and improve advertising ROI.",
+          "Tracked and optimized key business metrics such as GMV, ROAS, Conversion Rate, Average Order Value (AOV), and Customer Acquisition Cost (CAC).",
+          "Collaborated with Sales, Brand, and Agency teams to execute product launch programs, commercial campaigns, and omnichannel revenue-driving activities.",
+          "Built periodic E-commerce and Marketing performance reporting systems, providing insights for growth and profit optimization decisions."
         ],
         "achievements": [],
         "skills": [
@@ -176,12 +176,12 @@
         "role": "Retail Marketing Specialist",
         "period": "2013-2016",
         "responsibilities": [
-          "Xây dựng và triển khai các chương trình Trade Marketing và Retail Marketing nhằm thúc đẩy doanh số tại hệ thống showroom và đại lý trên toàn quốc.",
-          "Quản lý và phát triển các hoạt động Marketing đa kênh (Online & Offline), đảm bảo trải nghiệm thương hiệu nhất quán trên mọi điểm chạm khách hàng.",
-          "Lập kế hoạch và triển khai POSM, Activation, Event và các chương trình khuyến mãi nhằm gia tăng lưu lượng khách hàng tại điểm bán.",
-          "Theo dõi hiệu quả các chiến dịch Digital Marketing trên Google, Facebook và YouTube nhằm hỗ trợ hoạt động bán hàng và nhận diện thương hiệu.",
-          "Phân tích dữ liệu bán hàng, hiệu quả chiến dịch và hành vi khách hàng để đề xuất các giải pháp tối ưu doanh thu và chi phí Marketing.",
-          "Phối hợp với Sales, Retail Operations và Agency trong việc triển khai các hoạt động thúc đẩy doanh số và phát triển thị trường."
+          "Built and executed Trade Marketing and Retail Marketing programs to boost sales at showroom systems and agencies nationwide.",
+          "Managed and developed omnichannel Marketing activities (Online & Offline), ensuring a consistent brand experience across all customer touchpoints.",
+          "Planned and deployed POSM, Activations, Events, and promotional programs to increase foot traffic at points of sale.",
+          "Tracked the effectiveness of Digital Marketing campaigns on Google, Facebook, and YouTube to support sales activities and brand awareness.",
+          "Analyzed sales data, campaign effectiveness, and customer behavior to propose solutions that optimize revenue and Marketing costs.",
+          "Collaborated with Sales, Retail Operations, and Agencies to implement sales-driving and market development activities."
         ],
         "achievements": [],
         "skills": [
@@ -217,25 +217,25 @@
         "logo": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t39.30808-6/489456796_1061405819348858_5991919552454226053_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=a5nHcJDJgmUQ7kNvwGOoqMb&_nc_oc=AdpxoEBtUk_U9haaf-hKudYevwMb-MJnC0seiFForqGTmS7jDH6vJe_ZBab7U9MEaPCrbS-chy7fXaY_Q3E2gqZx&_nc_zt=23&_nc_ht=scontent.fsgn2-8.fna&_nc_gid=jepYnj9c-rO8MUuJZIazEA&_nc_ss=7b2a8&oh=00_Af-vNBjdd98yjvnELWpen0Ig8-WBfng45ib7RIY8NQhCWA&oe=6A272538"
       }
     ],
-    "marquee": "Các công ty từng làm việc"
+    "marquee": "Companies I have worked with"
   },
   "projects": {
-    "tag": "THÀNH TỰU",
-    "title_hl": "Các Thành Tựu",
-    "title_sub": "Nổi Bật",
-    "desc": "Các dự án tiêu biểu, thành tựu, giải thưởng đã đạt được",
+    "tag": "ACHIEVEMENTS",
+    "title_hl": "Highlighted",
+    "title_sub": "Achievements",
+    "desc": "Featured projects, achievements, and awards received.",
     "top_stats": [
       {
-        "value": ">150 tr GMV",
-        "label": "chỉ trong 1 tháng từ lúc khai trương"
+        "value": ">150M GMV",
+        "label": "in just 1 month since opening"
       },
       {
         "value": "500+",
-        "label": "Học Viên và Chủ Doanh nghiệp đào tạo và tư vấn"
+        "label": "Students and Business Owners trained and consulted"
       },
       {
         "value": "250%",
-        "label": "Tăng Trưởng Trung Bình"
+        "label": "Average Growth"
       },
       {
         "value": "40x",
@@ -243,9 +243,9 @@
       }
     ],
     "filters": [
-      "Tất cả",
+      "All",
       "Marketing & Growth",
-      "Tư Vấn & Đào Tạo",
+      "Consulting & Training",
       "Awards"
     ],
     "items": [
@@ -254,53 +254,53 @@
         "title": "Timtruongquocte.com",
         "category": "Marketing & Growth",
         "image": "/images/timtruongquocte.png",
-        "short_desc": "Xây dựng Organic Lead Engine cho ngành Giáo dục Quốc tế, giúp thu hút khách hàng tiềm năng qua SEO và nội dung so sánh trường học mà không phụ thuộc quảng cáo.",
-        "desc": "Bối cảnh\n\nTôi nhận thấy phần lớn phụ huynh bắt đầu hành trình tìm trường quốc tế bằng Google với các truy vấn mang nhu cầu rất cao như:\n\nTrường ESH có tốt không?\nTrường Á Châu có tốt không?\nHọc phí trường quốc tế bao nhiêu?\nSo sánh các trường quốc tế tại TP.HCM\n\nTrong khi đó, chi phí quảng cáo ngày càng tăng và các kênh Paid Media khó duy trì hiệu quả dài hạn.\n\nTôi đặt câu hỏi:\n\nLàm thế nào để biến nhu cầu tìm kiếm sẵn có thành một hệ thống tạo lead chất lượng với chi phí gần như bằng 0?\n\nChiến lược Growth\n\nThay vì tiếp tục phụ thuộc vào quảng cáo, tôi xây dựng TimTruongQuocTe.com như một nền tảng tìm kiếm và tham khảo trường quốc tế dành riêng cho phụ huynh.\n\nChiến lược tập trung vào việc chiếm lĩnh các điểm chạm có ý định cao (high-intent search) thông qua:\n\nSEO theo nhu cầu tìm kiếm thực tế của phụ huynh.\nNội dung đánh giá, so sánh và phân tích trường học.\nLanding Page chuyên biệt cho từng trường và nhóm từ khóa.\nHệ thống CTA được tối ưu xuyên suốt hành trình người dùng.\nKết nối trực tiếp với CRM để thu thập, phân loại và chuyển giao lead cho đội tuyển sinh.\nGrowth Loop\nGoogle Search\n↓\nNội dung đánh giá trường\n↓\nSo sánh trường học\n↓\nĐăng ký tư vấn\n↓\nLead chất lượng\n↓\nTuyển sinh\n↓\nTối ưu nội dung & SEO\n↓\nTăng trưởng Organic Traffic\nKết quả\nTạo ra nguồn lead ổn định từ Organic Search mà không cần chi ngân sách quảng cáo.\nThu hút trung bình 20–30 lead chất lượng mỗi tuần.\nDuy trì Cost Per Lead gần như bằng 0 đồng.\nTiếp cận đúng nhóm phụ huynh đang có nhu cầu tìm trường và khả năng chuyển đổi cao.\nXây dựng một tài sản tăng trưởng dài hạn có khả năng tạo lead liên tục theo thời gian.",
+        "short_desc": "Built an Organic Lead Engine for the International Education sector, helping to attract potential customers through SEO and school comparison content without relying on ads.",
+        "desc": "Context\n\nI realized that most parents begin their journey of finding international schools using Google with high-intent queries such as:\n\nIs ESH school good?\nIs Asian School good?\nHow much is the international school tuition?\nComparing international schools in HCMC\n\nMeanwhile, advertising costs are increasing, and Paid Media channels are hard to maintain long-term efficiency.\n\nI asked the question:\n\nHow can we turn existing search demand into a high-quality lead generation system with almost zero cost?\n\nGrowth Strategy\n\nInstead of continuing to rely on ads, I built TimTruongQuocTe.com as a search and reference platform dedicated to parents.\n\nThe strategy focuses on capturing high-intent touchpoints through:\n\nSEO based on actual parent search demands.\nSchool review, comparison, and analysis content.\nSpecialized Landing Pages for each school and keyword group.\nOptimized CTA system throughout the user journey.\nDirect integration with CRM to collect, classify, and transfer leads to the admissions team.\n\nGrowth Loop\nGoogle Search\n↓\nSchool review content\n↓\nSchool comparison\n↓\nConsultation registration\n↓\nHigh-quality leads\n↓\nAdmissions\n↓\nContent & SEO optimization\n↓\nOrganic Traffic growth\n\nResults\nGenerated a stable source of leads from Organic Search without requiring an ad budget.\nAttracted an average of 20–30 high-quality leads per week.\nMaintained Cost Per Lead at almost zero.\nReached the exact target audience of parents looking for schools with high conversion potential.\nBuilt a long-term growth asset capable of continuously generating leads over time.",
         "metrics": [
           {
-            "value": "0 đ",
+            "value": "0 VND",
             "label": "Cost per lead"
           },
           {
-            "value": "1,25%",
+            "value": "1.25%",
             "label": "Conversion rate"
           },
           {
             "value": "20-30",
-            "label": "Lead mỗi tuần mà không cần chạy quảng cáo"
+            "label": "Leads per week without ads"
           }
         ],
-        "link_text": "Xem Chi Tiết"
+        "link_text": "View Details"
       },
       {
         "id": "p2",
         "title": "AI School Matching Engine",
         "category": "Marketing & Growth",
-        "short_desc": "Tôi xây dựng hệ thống đánh giá và gợi ý trường quốc tế bằng AI nhằm cá nhân hóa hành trình chọn trường, giúp phụ huynh rút ngắn thời gian ra quyết định, đồng thời tăng chất lượng lead, tỷ lệ chuyển đổi và khả năng remarketing dựa trên dữ liệu hành vi thực tế.",
-        "desc": "Bối cảnh\n\nTôi nhận thấy phần lớn phụ huynh gặp khó khăn khi lựa chọn trường quốc tế vì phải so sánh hàng chục chương trình học, mức học phí và môi trường giáo dục khác nhau.\n\nĐiều này khiến quá trình ra quyết định kéo dài, tỷ lệ chuyển đổi thấp và đội ngũ tuyển sinh phải dành nhiều thời gian tư vấn cho những khách hàng chưa thực sự phù hợp.\n\nChiến lược Growth\n\nThay vì đưa phụ huynh trực tiếp đến form đăng ký tư vấn, tôi thiết kế một hệ thống đánh giá nhu cầu bằng AI nhằm giúp phụ huynh xác định trường học phù hợp thông qua một chuỗi câu hỏi về:\n\nĐộ tuổi và năng lực học tập của học sinh\nMục tiêu giáo dục của gia đình\nNgân sách học phí\nKhu vực sinh sống\nMôi trường học tập mong muốn\nChương trình đào tạo ưu tiên\n\nDựa trên dữ liệu thu thập được, AI sẽ phân tích và đề xuất danh sách trường phù hợp nhất với nhu cầu của từng gia đình.\n\nGrowth Framework\nPaid Media / Organic Traffic\n↓\nAI School Matching Quiz\n↓\nThu thập First-party Data\n↓\nAI Recommendation\n↓\nLead Qualification\n↓\nTư vấn tuyển sinh\n↓\nEnrollment\nGiá trị tạo ra\n\nHệ thống không chỉ đóng vai trò như một công cụ tư vấn cho phụ huynh mà còn giúp:\n\nNâng cao chất lượng lead trước khi chuyển sang đội tuyển sinh.\nTăng tỷ lệ chuyển đổi từ quảng cáo sang đăng ký tư vấn.\nThu thập dữ liệu hành vi và nhu cầu của phụ huynh.\nXây dựng tập dữ liệu First-party Data phục vụ Marketing Automation.\nCải thiện hiệu quả Remarketing dựa trên từng nhóm nhu cầu.\nTăng độ chính xác của các thuật toán tối ưu quảng cáo trên Meta và Google.",
+        "short_desc": "I built an AI-powered school evaluation and recommendation system to personalize the school selection journey, helping parents shorten their decision-making time while increasing lead quality, conversion rates, and remarketing capabilities based on actual behavioral data.",
+        "desc": "Context\n\nI noticed that most parents struggle when choosing international schools because they have to compare dozens of curriculums, tuition fees, and educational environments.\n\nThis prolongs the decision-making process, results in low conversion rates, and requires the admissions team to spend a lot of time consulting unqualified customers.\n\nGrowth Strategy\n\nInstead of sending parents directly to a consultation registration form, I designed an AI-powered needs assessment system to help parents identify suitable schools through a series of questions about:\n\nStudent age and academic ability\nFamily educational goals\nTuition budget\nLiving area\nDesired learning environment\nPreferred curriculum\n\nBased on the collected data, the AI analyzes and recommends the most suitable list of schools for each family's needs.\n\nGrowth Framework\nPaid Media / Organic Traffic\n↓\nAI School Matching Quiz\n↓\nCollect First-party Data\n↓\nAI Recommendation\n↓\nLead Qualification\n↓\nAdmissions Consultation\n↓\nEnrollment\n\nValue Created\n\nThe system acts not only as a consulting tool for parents but also helps to:\n\nImprove lead quality before transferring to the admissions team.\nIncrease the conversion rate from ads to consultation registration.\nCollect behavioral and demand data from parents.\nBuild a First-party Data set for Marketing Automation.\nImprove Remarketing efficiency based on specific needs.\nIncrease the accuracy of ad optimization algorithms on Meta and Google.",
         "metrics": [
           {
             "value": "250%",
-            "label": "Tăng Lead"
+            "label": "Lead Increase"
           },
           {
             "value": "-10%",
-            "label": "Chi Phí CAC"
+            "label": "CAC Cost"
           },
           {
             "value": ">10%",
             "label": "Conversion rate"
           }
         ],
-        "link_text": "Xem Chi Tiết",
+        "link_text": "View Details",
         "image": "/images/AIlandingpage.png"
       },
       {
         "id": "p3",
-        "title": "Hệ thống Báo cáo Dữ liệu",
+        "title": "Data Reporting System",
         "category": "Marketing & Growth",
-        "short_desc": "Xây dựng hệ thống Marketing & Growth Intelligence Dashboard trên Looker Studio (Data Studio) nhằm hợp nhất dữ liệu từ Google Ads, Facebook Ads, TikTok Ads, Website Analytics và CRM vào một nền tảng theo dõi tập trung.",
-        "desc": "Xây dựng hệ thống Marketing & Growth Intelligence Dashboard trên Looker Studio (Data Studio) nhằm hợp nhất dữ liệu từ Google Ads, Facebook Ads, TikTok Ads, Website Analytics và CRM vào một nền tảng theo dõi tập trung.\n\nDashboard giúp ban lãnh đạo và đội ngũ Marketing theo dõi hiệu quả đầu tư theo thời gian thực, từ ngân sách, CPL, Conversion Rate, CAC đến chất lượng khách hàng theo từng kênh.\n\nThông qua việc trực quan hóa dữ liệu và chuẩn hóa hệ thống báo cáo, tôi giúp rút ngắn thời gian phân tích, nâng cao tốc độ ra quyết định và tối ưu hiệu quả tăng trưởng dựa trên dữ liệu thay vì cảm tính.\n\nHệ thống còn hỗ trợ phát hiện sớm các kênh hiệu quả, nhận diện điểm nghẽn trong phễu chuyển đổi và đưa ra các hành động tối ưu nhằm cải thiện ROI, chất lượng lead và hiệu quả phân bổ ngân sách Marketing.\n",
+        "short_desc": "Built a Marketing & Growth Intelligence Dashboard on Looker Studio (Data Studio) to consolidate data from Google Ads, Facebook Ads, TikTok Ads, Website Analytics, and CRM into a centralized tracking platform.",
+        "desc": "Built a Marketing & Growth Intelligence Dashboard on Looker Studio (Data Studio) to consolidate data from Google Ads, Facebook Ads, TikTok Ads, Website Analytics, and CRM into a centralized tracking platform.\n\nThe dashboard helps the management board and Marketing team track investment performance in real-time, from budget, CPL, Conversion Rate, CAC to customer quality across each channel.\n\nThrough data visualization and reporting system standardization, I helped shorten analysis time, improve decision-making speed, and optimize growth performance based on data rather than intuition.\n\nThe system also supports early detection of effective channels, identifies bottlenecks in the conversion funnel, and suggests optimization actions to improve ROI, lead quality, and Marketing budget allocation efficiency.",
         "metrics": [
           {
             "value": "100%",
@@ -308,29 +308,29 @@
           },
           {
             "value": "5+",
-            "label": "Tích Hợp"
+            "label": "Integrations"
           }
         ],
-        "link_text": "Xem Chi Tiết",
+        "link_text": "View Details",
         "image": "/images/dasboardstudio.png"
       },
       {
         "id": "p4",
         "title": "CRM Automation Marketing",
         "category": "Marketing & Growth",
-        "short_desc": "Thiết kế và triển khai hệ thống CRM & Marketing Automation giúp tự động hóa toàn bộ hành trình khách hàng, từ thu thập lead, phân loại nhu cầu, chấm điểm, nuôi dưỡng khách hàng tiềm năng đến chuyển đổi và remarketing.",
-        "desc": "Bối cảnh\n\nPhụ huynh tiếp cận thương hiệu thông qua nhiều điểm chạm khác nhau như quảng cáo, landing page, chatbot, sự kiện và website.\n\nViệc xử lý dữ liệu thủ công khiến đội ngũ tuyển sinh mất nhiều thời gian, đồng thời làm giảm khả năng chăm sóc khách hàng kịp thời.\n\nChiến lược Growth\n\nTôi xây dựng hệ thống Customer Journey Automation trên Salesforce CRM và Pardot nhằm kết nối toàn bộ dữ liệu khách hàng vào một nền tảng tập trung.\n\nHệ thống được thiết kế để:\n\nThu thập lead từ quảng cáo, website, chatbot và landing page.\nTự động đồng bộ dữ liệu vào CRM.\nPhân loại khách hàng theo mức độ quan tâm và hành vi.\nChấm điểm khách hàng (Lead Scoring).\nKích hoạt email và SMS theo từng giai đoạn của hành trình khách hàng.\nTự động chuyển lead chất lượng cho đội tuyển sinh.\nGrowth Framework\nAds / Website / Chatbot\n↓\nLead Capture\n↓\nSalesforce CRM\n↓\nLead Scoring\n↓\nMarketing Automation\n↓\nEmail / SMS / Remarketing\n↓\nAdmissions Team\n↓\nNew Enrollment",
+        "short_desc": "Designed and implemented a CRM & Marketing Automation system to automate the entire customer journey, from lead capture, needs classification, scoring, nurturing, to conversion and remarketing.",
+        "desc": "Context\n\nParents interact with the brand through various touchpoints such as ads, landing pages, chatbots, events, and the website.\n\nProcessing data manually takes up a lot of the admissions team's time and reduces the ability for timely customer care.\n\nGrowth Strategy\n\nI built a Customer Journey Automation system on Salesforce CRM and Pardot to connect all customer data into a centralized platform.\n\nThe system is designed to:\n\nCollect leads from ads, websites, chatbots, and landing pages.\nAutomatically sync data into the CRM.\nClassify customers by interest level and behavior.\nScore customers (Lead Scoring).\nTrigger emails and SMS according to each stage of the customer journey.\nAutomatically route qualified leads to the admissions team.\n\nGrowth Framework\nAds / Website / Chatbot\n↓\nLead Capture\n↓\nSalesforce CRM\n↓\nLead Scoring\n↓\nMarketing Automation\n↓\nEmail / SMS / Remarketing\n↓\nAdmissions Team\n↓\nNew Enrollment",
         "metrics": [
           {
             "value": "3x",
-            "label": "Chuyển Đổi"
+            "label": "Conversion"
           },
           {
             "value": ">70%",
             "label": "Open rate"
           }
         ],
-        "link_text": "Xem Chi Tiết",
+        "link_text": "View Details",
         "image": "/images/crmautomation.jpg"
       },
       {
@@ -338,16 +338,16 @@
         "title": "SEO/AIO/AEO/GEO",
         "category": "Marketing & Growth",
         "image": "/images/AIO.jpg",
-        "short_desc": "Triển khai chiến lược SEO, AIO, AEO và GEO các website hoàn toàn mới trên Google và các nền tảng AI Search, giúp tăng trưởng Organic Traffic lên hơn 9.300 lượt truy cập mỗi tháng chỉ trong thời gian ngắn.",
-        "desc": "Bối cảnh\n\nKhi hành vi tìm kiếm của người dùng bắt đầu thay đổi dưới tác động của AI Search và Generative Search, tôi nhận thấy SEO truyền thống không còn đủ để duy trì tăng trưởng dài hạn.\n\nThay vì chỉ tập trung vào thứ hạng từ khóa, tôi chuyển chiến lược sang tối ưu toàn bộ khả năng xuất hiện của thương hiệu trên Google Search, AI Search và các nền tảng trả lời tự động.\n\nChiến lược Growth\n\nTôi xây dựng hệ thống nội dung theo mô hình:\n\nSEO (Search Engine Optimization)\nAEO (Answer Engine Optimization)\nGEO (Generative Engine Optimization)\n\nMục tiêu là giúp nội dung không chỉ xuất hiện trên Google mà còn trở thành nguồn tham khảo cho các công cụ AI và nền tảng tìm kiếm thế hệ mới.\n\nChiến lược bao gồm:\n\nTối ưu nội dung theo Search Intent.\nXây dựng cụm chủ đề (Topic Cluster).\nTăng cường cấu trúc dữ liệu và khả năng hiểu ngữ nghĩa.\nTối ưu nội dung cho Featured Snippets và AI Overview.\nXây dựng hệ thống nội dung Evergreen có khả năng tạo lưu lượng truy cập dài hạn.\nGrowth Framework\nSearch Demand\n↓\nSEO / AEO / GEO\n↓\nOrganic Traffic\n↓\nHigh-Intent Visitors\n↓\nLead Generation\n↓\nCRM\n↓\nEnrollment",
+        "short_desc": "Implemented SEO, AIO, AEO, and GEO strategies for completely new websites on Google and AI Search platforms, growing Organic Traffic to over 9,300 monthly visits in a short time.",
+        "desc": "Context\n\nAs user search behavior began to shift under the influence of AI Search and Generative Search, I realized that traditional SEO was no longer sufficient to maintain long-term growth.\n\nInstead of just focusing on keyword rankings, I shifted the strategy to optimizing the brand's overall presence on Google Search, AI Search, and automated answer platforms.\n\nGrowth Strategy\n\nI built a content system following this model:\n\nSEO (Search Engine Optimization)\nAEO (Answer Engine Optimization)\nGEO (Generative Engine Optimization)\n\nThe goal is to make the content not only appear on Google but also become a reference source for AI tools and next-generation search platforms.\n\nThe strategy includes:\n\nOptimizing content according to Search Intent.\nBuilding Topic Clusters.\nEnhancing data structure and semantic understanding capabilities.\nOptimizing content for Featured Snippets and AI Overviews.\nBuilding Evergreen content systems capable of generating long-term traffic.\n\nGrowth Framework\nSearch Demand\n↓\nSEO / AEO / GEO\n↓\nOrganic Traffic\n↓\nHigh-Intent Visitors\n↓\nLead Generation\n↓\nCRM\n↓\nEnrollment",
         "metrics": [
           {
             "value": "9,300+",
-            "label": "Lượt truy cập tự nhiên chỉ trong 3 tháng"
+            "label": "Organic visits in just 3 months"
           },
           {
             "value": "26% ",
-            "label": "Tăng trưởng active users"
+            "label": "Active users growth"
           }
         ],
         "link_text": "View Case Study"
@@ -357,11 +357,11 @@
         "title": "Google Ads Performance",
         "category": "Marketing & Growth",
         "image": "/images/google-campaign.png",
-        "short_desc": "Triển khai và tối ưu các chiến dịch Performance Marketing trên Google Ads thông qua việc kết hợp Search Ads, YouTube Ads, Demand Gen, Google Shopping App Campaigns và Performance Max nhằm thúc đẩy tăng trưởng cho các mô hình Lead Generation, E-commerce và Mobile Apps, đồng thời tối ưu CPA, ROAS và chất lượng chuyển đổi trên toàn bộ hành trình khách hàng.",
-        "desc": "Tôi xây dựng và tối ưu hệ thống Performance Marketing trên nền tảng Google Ads nhằm hỗ trợ tăng trưởng cho nhiều mô hình kinh doanh khác nhau, bao gồm Lead Generation, E-commerce và Mobile App Growth.\n\nChiến lược tập trung vào việc khai thác toàn bộ hệ sinh thái quảng cáo của Google thông qua Search Ads, YouTube Ads, Demand Gen, App Campaigns và Performance Max để tiếp cận khách hàng ở mọi giai đoạn của hành trình mua hàng, từ nhận biết, cân nhắc đến chuyển đổi.\n\nChiến lược triển khai\n\nThay vì phụ thuộc vào một loại chiến dịch duy nhất, tôi xây dựng mô hình Full-Funnel Acquisition kết hợp nhiều định dạng quảng cáo nhằm tối đa hóa hiệu quả đầu tư và mở rộng quy mô tăng trưởng.\n\nSearch Ads\nKhai thác nhu cầu tìm kiếm có sẵn từ khách hàng.\nTối ưu từ khóa, nhóm quảng cáo và nội dung quảng cáo nhằm nâng cao Conversion Rate.\nThu hút khách hàng có ý định mua hàng hoặc đăng ký dịch vụ cao.\nYouTube Ads\nMở rộng nhận diện thương hiệu và tạo nhu cầu mới.\nRemarketing đến các nhóm khách hàng đã tương tác.\nGia tăng tỷ lệ chuyển đổi thông qua chiến lược video sequencing.\nDemand Gen\nTiếp cận các nhóm khách hàng tiềm năng dựa trên hành vi và sở thích.\nMở rộng tệp khách hàng chất lượng ngoài Search.\nHỗ trợ tạo nhu cầu và nuôi dưỡng khách hàng trước khi chuyển đổi.\nPerformance Max\nTận dụng Machine Learning của Google để tối ưu chuyển đổi trên toàn bộ hệ sinh thái Google.\nTự động phân phối ngân sách đến các kênh có hiệu quả cao nhất.\nTối ưu CPA, ROAS và chất lượng khách hàng tiềm năng.\nApp Campaigns\nThu hút người dùng mới cho ứng dụng.\nTối ưu App Install, In-App Actions và Subscription.\nHỗ trợ mở rộng quy mô User Acquisition với chi phí hợp lý.\nGiá trị mang lại\nTăng trưởng khách hàng tiềm năng thông qua chiến lược Acquisition đa kênh.\nTối ưu CPA và chất lượng chuyển đổi dựa trên dữ liệu thực tế.\nHỗ trợ tăng trưởng doanh thu cho các mô hình Lead Generation và E-commerce.\nThúc đẩy User Acquisition và Subscription Growth cho Mobile Apps.\nTận dụng dữ liệu chuyển đổi để liên tục cải thiện hiệu quả quảng cáo và mở rộng quy mô chiến dịch.",
+        "short_desc": "Implemented and optimized Performance Marketing campaigns on Google Ads by combining Search Ads, YouTube Ads, Demand Gen, App Campaigns, and Performance Max to drive growth for Lead Generation, E-commerce, and Mobile Apps models, while optimizing CPA, ROAS, and conversion quality across the entire customer journey.",
+        "desc": "I built and optimized the Performance Marketing system on the Google Ads platform to support growth across multiple business models, including Lead Generation, E-commerce, and Mobile App Growth.\n\nThe strategy focuses on leveraging Google's entire advertising ecosystem through Search Ads, YouTube Ads, Demand Gen, App Campaigns, and Performance Max to reach customers at every stage of the buying journey, from awareness and consideration to conversion.\n\nImplementation Strategy\n\nInstead of relying on a single campaign type, I built a Full-Funnel Acquisition model combining multiple ad formats to maximize ROI and scale growth.\n\nSearch Ads\nCapitalize on existing customer search demand.\nOptimize keywords, ad groups, and ad copy to improve Conversion Rate.\nAttract high-intent customers ready to purchase or register.\n\nYouTube Ads\nExpand brand awareness and create new demand.\nRemarket to engaged customer segments.\nIncrease conversion rates through video sequencing strategies.\n\nDemand Gen\nReach potential customer segments based on behavior and interests.\nExpand high-quality audiences outside of Search.\nSupport demand generation and lead nurturing before conversion.\n\nPerformance Max\nLeverage Google's Machine Learning to optimize conversions across the entire Google ecosystem.\nAutomatically distribute budgets to the highest-performing channels.\nOptimize CPA, ROAS, and lead quality.\n\nApp Campaigns\nAcquire new app users.\nOptimize App Installs, In-App Actions, and Subscriptions.\nSupport scalable User Acquisition at reasonable costs.\n\nValue Delivered\nLead growth through an omnichannel Acquisition strategy.\nCPA and conversion quality optimization based on actual data.\nRevenue growth support for Lead Generation and E-commerce models.\nUser Acquisition and Subscription Growth acceleration for Mobile Apps.\nLeveraging conversion data to continuously improve ad performance and scale campaigns.",
         "metrics": [
           {
-            "value": ">10 tỷ VND",
+            "value": ">10 Billion VND",
             "label": "Google Ads Spend"
           },
           {
@@ -376,16 +376,16 @@
         "title": "Community-Led Growth Engine",
         "category": "Marketing & Growth",
         "image": "/images/community.png",
-        "short_desc": "Xây dựng hệ sinh thái cộng đồng trên Zalo và Facebook xoay quanh các chủ đề mà khách hàng mục tiêu thực sự quan tâm, từ đó tạo nguồn khách hàng tiềm năng bền vững, tăng khả năng nuôi dưỡng và giảm sự phụ thuộc vào quảng cáo trả phí.",
-        "desc": "Thay vì chỉ thu thập lead, tôi xây dựng các cộng đồng chuyên biệt theo từng nhóm nhu cầu như:\n\nChia sẻ tài liệu IELTS miễn phí\nGà Mờ IELTS\nGiáo dục sớm cho trẻ\nCộng đồng Trí tuệ nhân tạo\nChợ đầu mối đá phong thủy\nCác cộng đồng chuyên ngành khác\n\nMỗi cộng đồng được vận hành như một kênh Inbound Marketing giúp:\n\nThu hút thành viên tự nhiên.\nXây dựng niềm tin với thương hiệu.\nNuôi dưỡng khách hàng tiềm năng trong dài hạn.\nGia tăng tỷ lệ chuyển đổi thông qua nội dung giá trị.\nTạo nguồn dữ liệu First-Party Data phục vụ Marketing Automation và Remarketing.",
+        "short_desc": "Built a community ecosystem on Zalo and Facebook around topics that target customers truly care about, thereby generating a sustainable lead source, increasing nurturing capabilities, and reducing reliance on paid advertising.",
+        "desc": "Instead of just collecting leads, I built specialized communities based on specific needs, such as:\n\nFree IELTS materials sharing\nIELTS for Beginners (Gà Mờ IELTS)\nEarly childhood education\nArtificial Intelligence community\nFeng Shui stones wholesale market\nOther industry-specific communities\n\nEach community operates as an Inbound Marketing channel that helps:\n\nAttract members organically.\nBuild trust with the brand.\nNurture potential customers in the long term.\nIncrease conversion rates through valuable content.\nCreate a First-Party Data source for Marketing Automation and Remarketing.",
         "metrics": [
           {
             "value": "10+",
-            "label": "Cộng đồng trên Zalo và Facebook"
+            "label": "Zalo & Facebook Communities"
           },
           {
             "value": "100+",
-            "label": "Leads mỗi tháng không tốn chi phí"
+            "label": "Leads per month at zero cost"
           }
         ],
         "link_text": "View Case Study"
@@ -395,12 +395,12 @@
         "title": "Facebook Growth & Commerce",
         "category": "Marketing & Growth",
         "image": "/images/facead.png",
-        "short_desc": "Xây dựng và tối ưu hệ thống Facebook Ads nhằm thúc đẩy tăng trưởng doanh thu, khách hàng tiềm năng và đơn hàng trực tuyến thông qua việc kết hợp Social Commerce, Conversion Optimization và Data-Driven Advertising.",
-        "desc": "Tôi xây dựng và vận hành hệ thống Facebook Performance Marketing theo mô hình Full-Funnel Growth nhằm tối ưu toàn bộ hành trình khách hàng từ tiếp cận, chuyển đổi đến tái mua hàng.\n\nCustomer Acquisition\n\nTập trung mở rộng quy mô khách hàng mới thông qua việc kết hợp nhiều phương pháp nhắm mục tiêu như Interest Targeting, Lookalike Audiences và Broad Audience, giúp Meta AI tối ưu khả năng tìm kiếm khách hàng tiềm năng có giá trị cao.\n\nConversion Optimization\n\nTriển khai đa dạng mục tiêu chuyển đổi phù hợp với từng mô hình kinh doanh, bao gồm Website Conversion, Lead Generation, Messenger Conversion và Social Commerce, nhằm tối đa hóa số lượng khách hàng tiềm năng và đơn hàng với chi phí tối ưu.\n\nRetention & Revenue Growth\n\nXây dựng hệ thống Dynamic Remarketing, Customer Retargeting và các chiến dịch Upsell/Cross-sell nhằm gia tăng giá trị vòng đời khách hàng (Customer Lifetime Value), đồng thời thúc đẩy doanh thu từ tệp khách hàng hiện hữu.\n\nContinuous Optimization\n\nLiên tục tối ưu hiệu suất quảng cáo thông qua Creative Testing Framework, Meta Pixel, Conversion API và Campaign Budget Optimization, giúp nâng cao khả năng học máy của thuật toán và cải thiện hiệu quả đầu tư quảng cáo theo thời gian.\n\nGrowth Framework\nAudience & Market Research\n↓\nCreative Strategy & Testing\n↓\nFacebook Performance Marketing\n↓\nLead Generation / Sales Conversion\n↓\nCRM & Customer Data Platform\n↓\nRemarketing & Customer Nurturing\n↓\nRepeat Purchase & Revenue Growth",
+        "short_desc": "Built and optimized the Facebook Ads system to drive revenue growth, leads, and online orders by combining Social Commerce, Conversion Optimization, and Data-Driven Advertising.",
+        "desc": "I built and operated the Facebook Performance Marketing system based on the Full-Funnel Growth model to optimize the entire customer journey from reach and conversion to repurchase.\n\nCustomer Acquisition\n\nFocused on scaling new customer acquisition by combining multiple targeting methods such as Interest Targeting, Lookalike Audiences, and Broad Audiences, helping Meta AI optimize the search for high-value potential customers.\n\nConversion Optimization\n\nImplemented various conversion objectives suitable for each business model, including Website Conversion, Lead Generation, Messenger Conversion, and Social Commerce, to maximize the number of leads and orders at optimal costs.\n\nRetention & Revenue Growth\n\nBuilt Dynamic Remarketing, Customer Retargeting, and Upsell/Cross-sell campaigns to increase Customer Lifetime Value (CLV) and drive revenue from the existing customer base.\n\nContinuous Optimization\n\nContinuously optimized ad performance through Creative Testing Framework, Meta Pixel, Conversion API, and Campaign Budget Optimization, enhancing algorithm learning capabilities and improving ROI over time.\n\nGrowth Framework\nAudience & Market Research\n↓\nCreative Strategy & Testing\n↓\nFacebook Performance Marketing\n↓\nLead Generation / Sales Conversion\n↓\nCRM & Customer Data Platform\n↓\nRemarketing & Customer Nurturing\n↓\nRepeat Purchase & Revenue Growth",
         "metrics": [
           {
             "value": "4,000 VND",
-            "label": "cost per mess"
+            "label": "cost per message"
           },
           {
             "value": "40x",
@@ -418,18 +418,18 @@
         "title": "Inbound Marketing",
         "category": "Marketing & Growth",
         "image": "/images/seoyoutube.png",
-        "short_desc": "Tôi xây dựng chiến lược youtube SEO và Content Marketing nhằm phát triển lượng người xem tự nhiên, gia tăng nhận diện thương hiệu và tạo nguồn khách hàng tiềm năng thông qua nội dung có giá trị dài hạn.",
-        "desc": "Bối cảnh\n\nTrong khi phần lớn doanh nghiệp tập trung vào quảng cáo trả phí, tôi nhận thấy YouTube là một trong những nền tảng có khả năng tạo lưu lượng truy cập và khách hàng tiềm năng bền vững nhất nếu được tối ưu đúng cách.\n\nThay vì chạy quảng cáo liên tục, tôi tập trung xây dựng hệ thống nội dung Evergreen có khả năng tiếp tục tạo lượt xem và tiếp cận khách hàng trong nhiều năm.\n\nChiến lược Growth\n\nTôi triển khai chiến lược Video SEO toàn diện bao gồm:\n\nNghiên cứu từ khóa và nhu cầu tìm kiếm của người dùng.\nTối ưu tiêu đề, mô tả, hashtag và cấu trúc nội dung.\nXây dựng cụm chủ đề (Topic Clusters).\nTăng khả năng xuất hiện trên YouTube Search và Suggested Videos.\nTận dụng nội dung dài hạn để thu hút người xem liên tục.\nKết hợp YouTube với Website, Cộng đồng và CRM nhằm tạo hệ sinh thái tăng trưởng đa kênh.",
+        "short_desc": "I built YouTube SEO and Content Marketing strategies to grow organic viewership, increase brand awareness, and generate leads through long-term valuable content.",
+        "desc": "Context\n\nWhile most businesses focus on paid advertising, I realized that YouTube is one of the platforms capable of generating the most sustainable traffic and leads if optimized correctly.\n\nInstead of continuously running ads, I focused on building Evergreen content systems capable of consistently generating views and reaching customers for years.\n\nGrowth Strategy\n\nI implemented a comprehensive Video SEO strategy including:\n\nKeyword and user search intent research.\nOptimization of titles, descriptions, hashtags, and content structure.\nBuilding Topic Clusters.\nIncreasing visibility on YouTube Search and Suggested Videos.\nLeveraging long-term content to attract continuous viewership.\nIntegrating YouTube with Websites, Communities, and CRM to create an omnichannel growth ecosystem.",
         "metrics": [],
         "link_text": "View Case Study"
       },
       {
         "id": "p1780638183443",
-        "title": "Giảng viên AI và Marketing",
-        "category": "Tư Vấn & Đào Tạo",
+        "title": "AI & Marketing Instructor",
+        "category": "Consulting & Training",
         "image": "/images/daotao.png",
-        "short_desc": "Đào tạo hơn 500 học viên và nhiều doanh nghiệp về Digital Marketing, Growth Strategy, AI Prompt Engineering và AI Agentic Workflow, giúp cá nhân và tổ chức ứng dụng AI vào Marketing, Sales và vận hành nhằm nâng cao năng suất và thúc đẩy tăng trưởng.",
-        "desc": "Giảng dạy các chương trình Digital Marketing từ cơ bản đến nâng cao, bao gồm SEO, Performance Marketing, Content Marketing, Marketing Analytics và Strategic Planning.\nĐào tạo Growth Marketing với trọng tâm vào Customer Acquisition, Conversion Optimization, Marketing Automation và Data-Driven Decision Making.\nThiết kế chương trình đào tạo AI ứng dụng cho Marketing và doanh nghiệp, giúp đội ngũ nâng cao năng suất và tối ưu quy trình vận hành.\nHướng dẫn học viên và doanh nghiệp ứng dụng AI Prompt Engineering trong nghiên cứu khách hàng, sáng tạo nội dung, phân tích dữ liệu và tự động hóa công việc.\nĐào tạo và tư vấn xây dựng AI Agent Workflow, hỗ trợ doanh nghiệp triển khai các tác vụ tự động trong Marketing, Sales và Customer Service.\nCố vấn các dự án thực tế giúp học viên và doanh nghiệp chuyển đổi từ tư duy Marketing truyền thống sang AI-Powered Growth.\nChia sẻ các phương pháp ứng dụng Generative AI, Automation và AI Agents nhằm gia tăng hiệu suất làm việc và khả năng mở rộng của tổ chức.",
+        "short_desc": "Trained over 500 students and multiple businesses in Digital Marketing, Growth Strategy, AI Prompt Engineering, and AI Agentic Workflow, helping individuals and organizations apply AI in Marketing, Sales, and Operations to enhance productivity and drive growth.",
+        "desc": "Taught Digital Marketing programs from basic to advanced levels, including SEO, Performance Marketing, Content Marketing, Marketing Analytics, and Strategic Planning.\nTrained Growth Marketing focusing on Customer Acquisition, Conversion Optimization, Marketing Automation, and Data-Driven Decision Making.\nDesigned applied AI training programs for Marketing and businesses, helping teams enhance productivity and optimize operational processes.\nGuided students and businesses in applying AI Prompt Engineering for customer research, content creation, data analysis, and workflow automation.\nTrained and consulted on building AI Agent Workflows, supporting businesses in implementing automated tasks in Marketing, Sales, and Customer Service.\nMentored real-world projects, helping students and businesses transition from traditional Marketing mindsets to AI-Powered Growth.\nShared methods for applying Generative AI, Automation, and AI Agents to increase organizational efficiency and scalability.",
         "metrics": [
           {
             "value": "500+",
@@ -440,23 +440,23 @@
             "label": "Corporate AI & Marketing Workshops"
           },
           {
-            "value": "4,8/5 ",
-            "label": "Học viên đánh giá"
+            "value": "4.8/5 ",
+            "label": "Student rating"
           }
         ],
         "link_text": "View Case Study"
       },
       {
         "id": "p1780638776698",
-        "title": "Dự án Ngọc Y Cát",
-        "category": "Tư Vấn & Đào Tạo",
+        "title": "Ngoc Y Cat Project",
+        "category": "Consulting & Training",
         "image": "/images/thueaodai.png",
-        "short_desc": "Xây dựng chiến lược Local SEO và Google Business Profile cho thương hiệu Ngọc Y Cát, giúp doanh nghiệp mới thành lập đạt doanh thu hơn 150 triệu đồng trong tháng đầu tiên, đồng thời đưa thương hiệu lên vị trí hàng đầu trên Google Search và Google Maps với từ khóa trọng điểm \"Thuê Áo Dài Gò Vấp\".",
-        "desc": "Bối cảnh\n\nKhi bắt đầu hoạt động, Ngọc Y Cát chưa có nhận diện thương hiệu, dữ liệu khách hàng hay lưu lượng truy cập tự nhiên.\n\nTrong khi đó, nhu cầu thuê áo dài tại khu vực Gò Vấp đã tồn tại sẵn trên Google với lượng tìm kiếm ổn định hàng tháng.\n\nThay vì phụ thuộc hoàn toàn vào quảng cáo, tôi tập trung khai thác nguồn nhu cầu có sẵn thông qua Local SEO và Google Business Profile.\n\nChiến lược triển khai\nLocal Search Domination\n\nTối ưu toàn diện Google Business Profile nhằm gia tăng khả năng xuất hiện trên:\n\nGoogle Search\nGoogle Maps\nLocal Pack\nTìm kiếm theo vị trí địa lý\nLocal SEO\n\nXây dựng hệ thống nội dung và Landing Page xoay quanh các từ khóa có ý định mua hàng cao:\n\nThuê áo dài Gò Vấp\nThuê áo dài TP.HCM\nThuê áo dài cưới\nThuê áo dài bưng quả\nThuê áo dài chụp ảnh\nReview Growth System\n\nXây dựng quy trình thu thập đánh giá từ khách hàng sau khi sử dụng dịch vụ nhằm gia tăng:\n\nĐộ uy tín thương hiệu\nTỷ lệ nhấp\nKhả năng hiển thị trên Google Maps\nConversion Optimization\n\nTối ưu thông tin doanh nghiệp, hình ảnh, CTA và trải nghiệm khách hàng giúp chuyển đổi lưu lượng tìm kiếm thành cuộc gọi, tin nhắn và khách hàng thực tế.\n\nGrowth Framework\nGoogle Search Demand\n↓\nLocal SEO\n↓\nGoogle Business Profile\n↓\nTop Search & Maps Ranking\n↓\nCalls / Messages\n↓\nStore Visits\n↓\nRevenue Growth",
+        "short_desc": "Built Local SEO and Google Business Profile strategies for the Ngoc Y Cat brand, helping the newly established business achieve over 150 million VND in revenue in the first month, and positioning the brand at the top of Google Search and Maps for the key term 'Thuê Áo Dài Gò Vấp' (Ao Dai Rental in Go Vap).",
+        "desc": "Context\n\nWhen operations began, Ngoc Y Cat had no brand awareness, customer data, or organic traffic.\n\nMeanwhile, the demand for Ao Dai rentals in the Go Vap area already existed on Google with a stable monthly search volume.\n\nInstead of completely relying on ads, I focused on tapping into the existing demand through Local SEO and Google Business Profile.\n\nImplementation Strategy\nLocal Search Domination\n\nComprehensively optimized the Google Business Profile to increase visibility on:\n\nGoogle Search\nGoogle Maps\nLocal Pack\nLocation-based searches\n\nLocal SEO\n\nBuilt content systems and Landing Pages around high purchasing intent keywords:\n\nAo Dai rental Go Vap\nAo Dai rental HCMC\nWedding Ao Dai rental\nBridesmaid Ao Dai rental\nPhotoshoot Ao Dai rental\n\nReview Growth System\n\nBuilt a process to collect reviews from customers after using the service to increase:\n\nBrand credibility\nClick-through rates\nVisibility on Google Maps\n\nConversion Optimization\n\nOptimized business information, images, CTAs, and customer experience to convert search traffic into calls, messages, and actual customers.\n\nGrowth Framework\nGoogle Search Demand\n↓\nLocal SEO\n↓\nGoogle Business Profile\n↓\nTop Search & Maps Ranking\n↓\nCalls / Messages\n↓\nStore Visits\n↓\nRevenue Growth",
         "metrics": [
           {
-            "value": "150tr GMV+",
-            "label": "ngay tháng đầu tiên"
+            "value": "150M+ GMV",
+            "label": "in the very first month"
           },
           {
             "value": "#1",
@@ -464,7 +464,7 @@
           },
           {
             "value": "Top 1 ",
-            "label": "từ khóa \"Thuê Áo Dài Gò Vấp\""
+            "label": "for keyword 'Thuê Áo Dài Gò Vấp'"
           },
           {
             "value": "341+ ",
@@ -475,11 +475,11 @@
       },
       {
         "id": "p1780639219389",
-        "title": "Dự án Homedot | Ứng dụng O2O kết nối kỹ thuật viên",
-        "category": "Tư Vấn & Đào Tạo",
+        "title": "Homedot Project | O2O Technician Connection App",
+        "category": "Consulting & Training",
         "image": "/images/appo2o.png",
-        "short_desc": "Tư vấn chiến lược tăng trưởng người dùng cho Homedot – nền tảng O2O về massage và chăm sóc sức khỏe tại nhà, xây dựng hệ thống User Acquisition, Growth Analytics và Funnel Optimization nhằm tối ưu chi phí thu hút khách hàng, gia tăng tỷ lệ đặt dịch vụ và thúc đẩy tăng trưởng bền vững cho ứng dụng.",
-        "desc": "Tổng quan\n\nTư vấn và triển khai chiến lược tăng trưởng người dùng cho Homedot – nền tảng O2O kết nối khách hàng với kỹ thuật viên massage và chăm sóc sức khỏe tại nhà, giúp rút ngắn thời gian đặt dịch vụ xuống dưới 1 giờ và mở rộng khả năng tiếp cận khách hàng trên quy mô lớn.\n\nChiến lược triển khai\nUser Acquisition & Growth Marketing\n\nXây dựng chiến lược tăng trưởng người dùng toàn diện, tập trung vào việc tối ưu toàn bộ hành trình từ cài đặt ứng dụng đến đặt dịch vụ thành công.\n\nTriển khai các chiến dịch Mobile App Growth trên:\n\nMeta Ads\nGoogle App Campaigns\nTikTok Ads\nZalo Ads\n\nnhằm tối ưu:\n\nCost Per Install (CPI)\nCost Per First Order (CPFO)\nCustomer Acquisition Cost (CAC)\nRetention Rate\nCustomer Lifetime Value (CLV)\nGrowth Analytics & Optimization\n\nThiết lập hệ thống đo lường và phân tích dữ liệu nhằm theo dõi hiệu quả tăng trưởng theo từng nguồn người dùng, chiến dịch và phân khúc khách hàng.\n\nTập trung đánh giá:\n\nInstall-to-Registration Rate\nRegistration-to-Booking Rate\nFirst Order Rate\nRetention Cohorts\nCAC Payback\nCLV/CAC Ratio\n\nđể liên tục tối ưu hiệu quả đầu tư và khả năng mở rộng.\n\nCross-functional Growth Leadership\n\nPhối hợp chặt chẽ với các đội ngũ Product, Data và Operations nhằm xác định điểm nghẽn trong hành trình khách hàng và triển khai các sáng kiến tăng trưởng dựa trên dữ liệu.\n\nCác hoạt động bao gồm:\n\nTối ưu onboarding flow.\nCải thiện tỷ lệ kích hoạt người dùng mới.\nThiết kế các chương trình referral và retention.\nTối ưu funnel đặt lịch và thanh toán.\nĐề xuất các tính năng tăng trưởng dựa trên hành vi người dùng.\nTeam Development & Execution Excellence\n\nDẫn dắt và phát triển đội ngũ Marketing theo mô hình Data-Driven Growth.\n\nXây dựng:\n\nQuy trình vận hành UA.\nFramework thử nghiệm và tối ưu.\nHệ thống báo cáo tăng trưởng.\nQuy trình đánh giá hiệu suất chiến dịch.\n\nnhằm đảm bảo khả năng mở rộng khi ứng dụng tăng trưởng.",
+        "short_desc": "Consulted on user growth strategy for Homedot - an O2O platform for at-home massage and healthcare, building User Acquisition, Growth Analytics, and Funnel Optimization systems to optimize customer acquisition costs, increase booking rates, and drive sustainable growth for the app.",
+        "desc": "Overview\n\nConsulted and executed a user growth strategy for Homedot – an O2O platform connecting customers with at-home massage and healthcare technicians, reducing booking times to under 1 hour and expanding customer reach at scale.\n\nImplementation Strategy\nUser Acquisition & Growth Marketing\n\nBuilt a comprehensive user growth strategy, focusing on optimizing the entire journey from app installation to successful booking.\n\nDeployed Mobile App Growth campaigns on:\n\nMeta Ads\nGoogle App Campaigns\nTikTok Ads\nZalo Ads\n\nto optimize:\n\nCost Per Install (CPI)\nCost Per First Order (CPFO)\nCustomer Acquisition Cost (CAC)\nRetention Rate\nCustomer Lifetime Value (CLV)\n\nGrowth Analytics & Optimization\n\nSet up measurement and data analysis systems to track growth performance by user source, campaign, and customer segment.\n\nFocused on evaluating:\n\nInstall-to-Registration Rate\nRegistration-to-Booking Rate\nFirst Order Rate\nRetention Cohorts\nCAC Payback\nCLV/CAC Ratio\n\nto continuously optimize investment efficiency and scalability.\n\nCross-functional Growth Leadership\n\nCollaborated closely with Product, Data, and Operations teams to identify bottlenecks in the customer journey and deploy data-driven growth initiatives.\n\nActivities included:\n\nOptimizing onboarding flow.\nImproving new user activation rates.\nDesigning referral and retention programs.\nOptimizing booking and payment funnels.\nProposing growth features based on user behavior.\n\nTeam Development & Execution Excellence\n\nLed and developed the Marketing team following the Data-Driven Growth model.\n\nBuilt:\n\nUA operating processes.\nTesting and optimization frameworks.\nGrowth reporting systems.\nCampaign performance evaluation processes.\n\nensuring scalability as the app grows.",
         "metrics": [
           {
             "value": "50+",
@@ -494,183 +494,219 @@
       },
       {
         "id": "p1780720287406",
-        "title": "Giải thưởng Cá nhân xuất sắc 2022 ",
+        "title": "Outstanding Individual Award 2022",
         "category": "Awards",
         "image": "/images/adwards.png",
-        "short_desc": "Được nhẩn giải thưởng Cá nhân xuất sắc năm 2022  và được tài trợ một chuyến đi Singapore vào năm 2023",
-        "desc": "Được nhẩn giải thưởng Cá nhân xuất sắc năm 2022 tại Tập đoàn Rapid Transformation Holdings và được tài trợ một chuyến đi Singapore vào năm 2023",
+        "short_desc": "Received the Outstanding Individual Award in 2022 and was sponsored for a trip to Singapore in 2023.",
+        "desc": "Received the Outstanding Individual Award in 2022 at Rapid Transformation Holdings and was sponsored for a trip to Singapore in 2023.",
         "metrics": [],
-        "link_text": "View Adwards"
+        "link_text": "View Award"
       },
       {
         "id": "p1780720503263",
         "title": "Leadership Award 2024",
         "category": "Awards",
         "image": "/images/leader.jpeg",
-        "short_desc": "Nhận giải thưởng Nhà lãnh đạo 2024 tại Tập đoàn Rapid Transformation Holdings",
-        "desc": "Nhận giải thưởng Nhà lãnh đạo 2024 tại Tập đoàn Rapid Transformation Holdings",
+        "short_desc": "Received the Leadership Award 2024 at Rapid Transformation Holdings.",
+        "desc": "Received the Leadership Award 2024 at Rapid Transformation Holdings.",
         "metrics": [],
-        "link_text": "View Adwards"
+        "link_text": "View Award"
       },
       {
         "id": "p1780721165135",
-        "title": "Tạp chí Tập đoàn 2024",
+        "title": "Group Magazine 2024",
         "category": "Awards",
         "image": "/images/tapchi.png",
-        "short_desc": "Được vinh danh trên tạp chí của Tập đoàn vào tháng 1/2024",
-        "desc": "Được vinh danh trên tạp chí của Tập đoàn vào tháng 1/2024",
+        "short_desc": "Honored in the Group's magazine in January 2024.",
+        "desc": "Honored in the Group's magazine in January 2024.",
         "metrics": [],
-        "link_text": "View Awards"
+        "link_text": "View Award"
       },
       {
         "id": "p1780721305835",
-        "title": "Google Professional Cert",
+        "title": "Google Professional Certificate",
         "category": "Awards",
         "image": "/images/dgtmkt.png",
-        "short_desc": "Chứng nhận chuyên môn toàn diện của Google về Digital Marketing và Thương mại điện tử, được FIBAA kiểm định quốc tế và được ACE công nhận tương đương tín chỉ đại học tại Hoa Kỳ.",
-        "desc": "Chứng chỉ Chuyên gia Digital Marketing & Thương mại điện tử của Google do Coursera cấp và đã được Foundation for International Business Administration Accreditation (FIBAA) công nhận đạt tiêu chuẩn kiểm định quốc tế.\n\nChứng chỉ này cũng đã được American Council on Education (ACE) thẩm định và công nhận tương đương tín chỉ đại học tại Hoa Kỳ.",
+        "short_desc": "Google's comprehensive professional certificate in Digital Marketing and E-commerce, internationally accredited by FIBAA and recognized by ACE as equivalent to US university credits.",
+        "desc": "Google Digital Marketing & E-commerce Professional Certificate issued by Coursera and accredited by the Foundation for International Business Administration Accreditation (FIBAA).\n\nThis certificate is also evaluated and recognized by the American Council on Education (ACE) as equivalent to university credits in the United States.",
         "metrics": [],
-        "link_text": "View Awards"
+        "link_text": "View Award"
       },
       {
         "id": "p1780721618066",
         "title": "AI-Driven Marketing Curriculum Transformation",
-        "category": "Tư Vấn & Đào Tạo",
+        "category": "Consulting & Training",
         "image": "/images/headsubject.png",
-        "short_desc": "Được MindX bổ nhiệm làm Head of Subject (Trưởng bộ môn Marketing) với nhiệm vụ tái thiết kế toàn bộ chương trình đào tạo Marketing theo định hướng mới, tích hợp AI vào mọi giai đoạn của hành trình học tập nhằm đáp ứng nhu cầu chuyển đổi của thị trường lao động trong kỷ nguyên AI.",
-        "desc": "Curriculum Redesign\n\nThiết kế lại toàn bộ chương trình đào tạo Marketing gồm 4 cấp độ từ Foundation đến Advanced theo định hướng AI-Driven Marketing.\n\nAI Integration Framework\n\nLồng ghép AI vào toàn bộ quá trình học tập bao gồm:\n\nAI Prompt Engineering\nGenerative AI for Marketing\nAI Content Creation\nAI Research & Customer Insights\nAI-powered SEO\nAI-assisted Performance Marketing\nMarketing Automation\nAI Agents for Business\nIndustry Alignment\n\nCập nhật chương trình dựa trên nhu cầu tuyển dụng thực tế của doanh nghiệp nhằm giúp học viên phát triển năng lực sẵn sàng cho môi trường làm việc hiện đại.\n\nOutcome-Based Learning\n\nChuyển đổi mô hình đào tạo từ học công cụ sang giải quyết bài toán kinh doanh, giúp học viên ứng dụng AI để nâng cao năng suất, hiệu quả và khả năng ra quyết định.",
+        "short_desc": "Appointed by MindX as Head of Subject (Head of Marketing Department) with the task of redesigning the entire Marketing training program in a new direction, integrating AI into every stage of the learning journey to meet labor market transformation needs in the AI era.",
+        "desc": "Curriculum Redesign\n\nRedesigned the entire Marketing training program including 4 levels from Foundation to Advanced following the AI-Driven Marketing orientation.\n\nAI Integration\n\nIntegrated AI Prompt Engineering, Content Generation, and AI Data Analysis into case studies and real-world projects.\n\nTrainer Development\n\nTrained and oriented instructors on teaching methods and applying AI in classrooms.\n\nQuality Assurance\n\nStandardized the evaluation system and capstone projects to ensure graduates meet enterprise AI and Marketing requirements.",
         "metrics": [],
-        "link_text": "View Case Study"
+        "link_text": "View Details"
       }
     ],
     "show_more": "Xem Thêm Dự Án",
     "more_desc": "20+ dự án khác trong nhiều lĩnh vực..."
   },
   "skills": {
-    "tag": "KỸ NĂNG",
-    "title_hl": "My",
-    "title_sub": "Skills",
-    "desc": "Sự kết hợp giữa tư duy chiến lược, chuyên môn kỹ thuật và tối ưu công cụ.",
+    "tag": "EXPERTISE",
+    "title_hl": "Skills &",
+    "title_sub": "Competencies",
+    "desc": "Combining specialized expertise and technology platforms to optimize performance and scale growth.",
     "groups": [
       {
         "id": "s1",
-        "name": "Chiến Lược Digital & Tăng Trưởng",
-        "short_desc": "Chiến lược dựa trên dữ liệu giúp mở rộng kinh doanh.",
+        "name": "Growth & Marketing Strategy",
+        "short_desc": "Building strategies and optimizing the customer journey based on data.",
         "tools": [
-          "Google Analytics",
-          "Looker Studio",
-          "Mixpanel",
-          "HubSpot"
+          {
+            "name": "BigQuery",
+            "logo": "/images/bigquerry.png"
+          },
+          {
+            "name": "Data Studio",
+            "logo": "/images/datastudio.png"
+          },
+          {
+            "name": "Salesforce",
+            "logo": "/images/salesforcelogo.png"
+          },
+          {
+            "name": "AppsFlyer",
+            "logo": "/images/appsflyerlogo.png"
+          }
         ],
-        "core_desc": "Xây dựng chiến lược Full-funnel Marketing và tối ưu hóa tỷ lệ chuyển đổi trên tất cả các điểm chạm kỹ thuật số.",
+        "core_desc": "Building Full-funnel Marketing strategies and optimizing conversion rates across all digital touchpoints.",
         "what_i_do": [
-          "Xây dựng chiến lược Growth",
-          "Quản lý Performance Marketing",
-          "Tối ưu tỷ lệ chuyển đổi (CRO)",
-          "Vẽ sơ đồ hành trình khách hàng"
+          "Building Growth Strategies",
+          "Managing Performance Marketing",
+          "Conversion Rate Optimization (CRO)",
+          "Customer Journey Mapping"
         ],
         "impact": [
           {
             "value": "250%",
-            "label": "Tăng Trưởng TB"
+            "label": "Avg. Growth"
           },
           {
             "value": "10+",
-            "label": "Thương Hiệu"
+            "label": "Brands"
           },
           {
             "value": "-30%",
-            "label": "Giảm CAC"
+            "label": "CAC Reduction"
           },
           {
             "value": "5x",
-            "label": "Tăng LTV"
+            "label": "LTV Increase"
           }
         ],
         "projects": [
           {
-            "title": "Cỗ máy Tăng trưởng B2B",
+            "title": "B2B Growth Engine",
             "image": ""
           },
           {
-            "title": "Hệ thống CRM Automation",
+            "title": "CRM Automation System",
             "image": ""
           }
         ],
-        "link_text": "Xem Chi Tiết"
+        "link_text": "View Details"
       },
       {
         "id": "s2",
-        "name": "AI & Tự động hóa",
-        "short_desc": "Ứng dụng AI tăng hiệu suất vận hành.",
+        "name": "AI & Marketing Automation",
+        "short_desc": "Applying AI and Automation to enhance productivity, optimize processes, and scale operations.",
         "tools": [
-          "ChatGPT",
-          "Make.com",
-          "Zapier",
-          "Python"
+          {
+            "name": "Antigravity",
+            "logo": "/images/anti.png"
+          },
+          {
+            "name": "Make",
+            "logo": "/images/make-color.png"
+          },
+          {
+            "name": "Zapier",
+            "logo": "/images/zapier.png"
+          },
+          {
+            "name": "n8n",
+            "logo": "/images/n8n.webp"
+          }
         ],
-        "core_desc": "Tích hợp công cụ AI và luồng công việc tự động giúp giảm bớt thao tác thủ công, tăng năng suất.",
+        "core_desc": "Integrating AI tools and automated workflows to reduce manual operations and increase productivity.",
         "what_i_do": [
-          "Tích hợp AI vào Quy trình",
-          "Tự động hóa Workflow",
-          "Xây dựng Trợ lý ảo AI",
+          "Integrating AI into Processes",
+          "Workflow Automation",
+          "Building AI Virtual Assistants",
           "Prompt Engineering"
         ],
         "impact": [
           {
             "value": "50%",
-            "label": "Tiết Kiệm Thời Gian"
+            "label": "Time Saved"
           },
           {
             "value": "20+",
-            "label": "Quy Trình Tự Động"
+            "label": "Automated Processes"
           },
           {
             "value": "24/7",
-            "label": "Vận Hành Liên Tục"
+            "label": "Continuous Operations"
           },
           {
             "value": "0",
-            "label": "Lỗi Thủ Công"
+            "label": "Manual Errors"
           }
         ],
         "projects": [
           {
-            "title": "Trợ lý AI Giáo dục",
+            "title": "EdTech AI Assistant",
             "image": "/images/edtech-ai.png"
           }
         ],
-        "link_text": "Xem Chi Tiết"
+        "link_text": "View Details"
       },
       {
         "id": "s3",
-        "name": "Phát triển Web & Nền tảng",
-        "short_desc": "Xây dựng sản phẩm số nhanh, đáng tin cậy.",
+        "name": "SEO & Organic Growth",
+        "short_desc": "Building sustainable customer acquisition systems through search and content.",
         "tools": [
-          "Next.js",
-          "React",
-          "TailwindCSS",
-          "TypeScript"
+          {
+            "name": "Search Console",
+            "logo": "/images/searchconsole.png"
+          },
+          {
+            "name": "Ahrefs",
+            "logo": "/images/ahrefslogo.svg"
+          },
+          {
+            "name": "SEMrush",
+            "logo": "/images/SEMRush-Logo.png"
+          },
+          {
+            "name": "Wordpress",
+            "logo": "/images/wplogo.png"
+          }
         ],
-        "core_desc": "Thiết kế và phát triển các ứng dụng web hiện đại với trọng tâm là hiệu năng và trải nghiệm người dùng.",
+        "core_desc": "Building sustainable customer acquisition systems through search and content.",
         "what_i_do": [
-          "Lập trình Frontend",
-          "Triển khai UI/UX",
-          "Kiến trúc nền tảng",
-          "Tối ưu hóa hiệu năng"
+          "SEO",
+          "AEO (Answer Engine Optimization)",
+          "GEO (Generative Engine Optimization)",
+          "Community-Led Growth"
         ],
         "impact": [
           {
             "value": "15+",
-            "label": "Sản Phẩm"
+            "label": "Products"
           },
           {
             "value": "100",
-            "label": "Điểm Lighthouse"
+            "label": "Lighthouse Score"
           },
           {
             "value": "0.1s",
-            "label": "Tốc Độ Tải"
+            "label": "Load Time"
           },
           {
             "value": "99%",
@@ -679,22 +715,56 @@
         ],
         "projects": [
           {
-            "title": "Hệ thống Báo cáo Dữ liệu",
+            "title": "Data Reporting System",
             "image": ""
           }
         ],
-        "link_text": "Xem Chi Tiết"
+        "link_text": "View Details"
+      },
+      {
+        "id": "s1781750924902",
+        "name": "Performance Marketing",
+        "short_desc": "Acquiring customers and optimizing the effectiveness of multi-platform advertising campaigns.",
+        "tools": [
+          {
+            "name": "Google Ads",
+            "logo": ""
+          },
+          {
+            "name": "Meta Ads",
+            "logo": ""
+          },
+          {
+            "name": "TikTok Ads",
+            "logo": ""
+          },
+          {
+            "name": "Zalo Ads",
+            "logo": ""
+          },
+          {
+            "name": "Programmatic Ads",
+            "logo": ""
+          }
+        ],
+        "core_desc": "Planning, deploying, and optimizing multi-platform advertising campaigns to increase revenue, leads, and ROI.",
+        "what_i_do": [
+          "Building Omnichannel Advertising Strategies",
+          "Optimizing CPO, CPL, CPI, ROAS, and CAC",
+          "Data Analysis",
+          "A/B Testing and Conversion Optimization"
+        ]
       }
     ]
   },
   "testimonials": {
-    "tag": "ĐÁNH GIÁ TỪ ĐỐI TÁC VÀ ĐỒNG NGHIỆP",
-    "title_hl": "ĐỐI TÁC VÀ ĐỒNG NGHIỆP",
-    "title_sub": "Nói Gì Về Tôi",
-    "desc": "Đừng chỉ nghe tôi nói. Hãy xem những khách hàng và đồng nghiệp đánh giá như thế nào về quá trình làm việc cùng tôi.",
+    "tag": "PARTNER & COLLEAGUE REVIEWS",
+    "title_hl": "PARTNERS AND COLLEAGUES",
+    "title_sub": "What they say about me",
+    "desc": "Don't just take my word for it. See what clients and colleagues have to say about working with me.",
     "items": [
       {
-        "content": "Anh zai Tuan Anh Phan Gv MKT fullstack đỉnh nóc kịch trần - 5 ⭐️ trong lòng hv",
+        "content": "Brother Tuan Anh Phan is a top-tier Full-stack Marketing Instructor - 5 ⭐️ in the hearts of students.",
         "author": "Quỳnh Trang",
         "role": "Teaching and Product Team Leader @ MindX",
         "avatar": "/images/qtrang.png"
@@ -706,18 +776,18 @@
         "avatar": "/images/thaodao.png"
       },
       {
-        "content": "Sự pha trộn tuyệt vời giữa kỹ năng công nghệ và tư duy marketing nhạy bén. Alex luôn thấu hiểu sản phẩm và biết chính xác cách mang nó đến đúng tệp khách hàng tiềm năng.",
-        "author": "Mike Johnson",
-        "role": "Founder, StartupX",
-        "avatar": ""
+        "content": "Alex is very dedicated, diligent, and responsible. I highly respect his work ethic as he can work day and night without fatigue.",
+        "author": "Vũ Hữu Hoàng",
+        "role": "Digital Marketing Manager @ FPT Telecom",
+        "avatar": "/images/huuhoang.png"
       }
     ]
   },
   "footer": {
     "title_hl": "Let's Build",
     "title_sub": "Something Great.",
-    "desc": "Tôi luôn mở cửa đón nhận những cơ hội hợp tác và vị trí cố vấn chiến lược mới.",
-    "cta": "Kết nối với tôi ngay",
+    "desc": "I am always open to new collaboration opportunities and strategic advisory roles.",
+    "cta": "Connect with me now",
     "copyright": "© 2026 Alex Anh Phan. All rights reserved.",
     "socials": {
       "linkedin": "LinkedIn",
